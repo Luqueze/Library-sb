@@ -35,5 +35,8 @@ build/
 
 /biblioteca/src/main/resources/application.properties
 
+application.properties
+
+src/main/java/com/lucas/biblioteca/biblioteca/config/SecurityConfig.java
 
 
